@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8318867-56a6-440f-b527-9661951a086a" name="Changes" comment="Add comments, continue working on timing errors, clean up thread_run code and remove anything not used">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchedulerGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchedulerGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread_run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread_run.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1yonEYOrtcGPRCDms4Nv4lAkVBV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ian\Desktop\Courses\CS_490\OSProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="OSProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thread_run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread_run" />
+      <module name="OSProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.thread_run" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.thread_run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8318867-56a6-440f-b527-9661951a086a" name="Changes" comment="" />
+      <created>1632926723281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632926723281</updated>
+      <workItem from="1632960087906" duration="3006000" />
+      <workItem from="1634154745668" duration="2086000" />
+      <workItem from="1634163953867" duration="71000" />
+      <workItem from="1634164284226" duration="3776000" />
+      <workItem from="1634692113332" duration="9716000" />
+      <workItem from="1634704287873" duration="177000" />
+      <workItem from="1634753662760" duration="9208000" />
+      <workItem from="1634768697866" duration="32000" />
+      <workItem from="1634768989844" duration="4436000" />
+      <workItem from="1634872000595" duration="2113000" />
+    </task>
+    <task id="LOCAL-00001" summary="GUI now updates process execution data in the CPU1 text area, and updates system running/paused text label">
+      <created>1634162043878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634162043878</updated>
+    </task>
+    <task id="LOCAL-00002" summary="small update to resume/pause">
+      <created>1634162710594</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634162710594</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create finished process list, update report table to display finished processes">
+      <created>1634701474254</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634701474255</updated>
+    </task>
+    <task id="LOCAL-00004" summary="work on process table, calculate throughput, work on threads not ending prematurely">
+      <created>1634759476402</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634759476402</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finish process table, get threads to run until no processes are left.">
+      <created>1634762745146</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634762745146</updated>
+    </task>
+    <task id="LOCAL-00006" summary="move program timer to utility so threads can access it to calculate TAT, nTAT, and Finish time">
+      <created>1634769336392</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634769336392</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Try to get pause/resume working">
+      <created>1634780747972</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634780747972</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix some timing issues, disable start button when clicked, and fix issue of programTimer stopping too early">
+      <created>1634841685939</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1634841685939</updated>
+    </task>
+    <task id="LOCAL-00009" summary="disable Pause button whe all processes are complete">
+      <created>1634841832458</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634841832458</updated>
+    </task>
+    <task id="LOCAL-00010" summary="working on off by one error">
+      <created>1634941783021</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634941783021</updated>
+    </task>
+    <task id="LOCAL-00011" summary="working on off by one error">
+      <created>1634942406697</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1634942406697</updated>
+    </task>
+    <task id="LOCAL-00012" summary="working on off by one error">
+      <created>1634942952884</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1634942952884</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add comments, continue working on timing errors, clean up thread_run code and remove anything not used">
+      <created>1634951749476</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1634951749476</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create finished process list, update report table to display finished processes" />
+    <MESSAGE value="work on process table, calculate throughput, work on threads not ending prematurely" />
+    <MESSAGE value="Finish process table, get threads to run until no processes are left." />
+    <MESSAGE value="move program timer to utility so threads can access it to calculate TAT, nTAT, and Finish time" />
+    <MESSAGE value="Try to get pause/resume working" />
+    <MESSAGE value="Fix some timing issues, disable start button when clicked, and fix issue of programTimer stopping too early" />
+    <MESSAGE value="disable Pause button whe all processes are complete" />
+    <MESSAGE value="working on off by one error" />
+    <MESSAGE value="Add comments, continue working on timing errors, clean up thread_run code and remove anything not used" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add comments, continue working on timing errors, clean up thread_run code and remove anything not used" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1236" height="125" key="GridCell.Tab.0.bottom" timestamp="1634955091745">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="125" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1634955091745" />
+    <state width="1236" height="125" key="GridCell.Tab.0.center" timestamp="1634955091744">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="125" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1634955091744" />
+    <state width="1236" height="125" key="GridCell.Tab.0.left" timestamp="1634955091744">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="125" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1634955091744" />
+    <state width="1236" height="125" key="GridCell.Tab.0.right" timestamp="1634955091745">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="125" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1634955091745" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

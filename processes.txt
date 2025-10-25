@@ -1,0 +1,10 @@
+0, process a, 10, 1
+5, process b, 14, 1
+6, process c, 4, 1
+10, process d, 10, 1
+10, process e, 15, 1
+12, process f, 5, 2
+12, process g, 20, 2
+15, process h, 6, 1
+16, process i, 8, 2
+16, process j, 10, 2
